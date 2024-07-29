@@ -1,2 +1,2 @@
 # python-projects
-projects to work on ideas
+learning to experiment one step at a time. 
